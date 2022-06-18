@@ -217,7 +217,7 @@ header #top-navbar a:hover{
 	margin-left: 0%;
 	display: flex;
 	flex-direction: row;
-	margin-bottom: -130vh;
+	margin-bottom: -150vh;
 }
 
 .main-section .mid-part{
@@ -510,7 +510,7 @@ header #top-navbar a:hover{
 }
 
 .main-section .question-sec {
-	height: 100px;
+	height: 90px;
 	display: flex;
 	flex-direction: row;
 }
@@ -602,7 +602,7 @@ header #top-navbar a:hover{
 
 .main-section .question-sec #main-question{
 	color: var(--so-blue-dark);
-	font-size: 1.2em;
+	font-size: 1.1em;
 	text-decoration: none;
 }
 
