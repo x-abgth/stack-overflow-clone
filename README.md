@@ -1,5 +1,7 @@
 # Stack Overflow web application clone
 This is a clone application of [Stack Overflow](https://stackoverflow.com/) website, made for educational purpose only.
+
+## See live demo [**HERE**](https://x-abgth.github.io/stack-overflow-clone/lib/)
 <br><br>
 >This application is only developed on front end and currently not responsive.
 
